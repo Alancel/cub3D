@@ -1,0 +1,14 @@
+R 1000 1000
+WE ./assets/bluestone.xpm
+EA ./assets/greystone.xpm
+NO ./assets/wood.xpm
+SO ./assets/3.xpm
+S ./assets/barrel.xpm
+F 225, 100, 50            
+
+C 50, 50, 255
+
+11111
+10001
+1N001
+11111
